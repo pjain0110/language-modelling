@@ -1,0 +1,1 @@
+perl Desktop/personal/wikifil.pl Downloads/enwik8 > Downloads/text8_processed
